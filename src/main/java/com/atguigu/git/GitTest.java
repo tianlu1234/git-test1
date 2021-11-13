@@ -10,6 +10,7 @@ public class GitTest {
         System.out.println("Hello Git2");
         System.out.println("Hello Git3");
         System.out.println("where there is a will,there is a way");
+        System.out.println("test");
        
     }
 }
